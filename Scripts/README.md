@@ -1,0 +1,1 @@
+Place these scripts within the Deployment Share's Scripts directory. Each script contains information on adding it to a task sequence.

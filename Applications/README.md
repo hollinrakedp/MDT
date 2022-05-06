@@ -1,0 +1,1 @@
+These scripts are designed to be imported as applications within MDT.
